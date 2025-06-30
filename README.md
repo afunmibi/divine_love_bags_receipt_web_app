@@ -1,0 +1,1 @@
+this web apps was made to issue e-receipts for customers, track daily, weekly, monthly sales.    it helps to track progress and give room for   improvement    as it helps to compare   last week, last  month sales. i made used of PHP, MYSQL and bootstrap tcpdf and dompdf
